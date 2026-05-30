@@ -1,0 +1,6 @@
+{
+  "name": "Skymax Business Solutions",
+  "description": "Premium corporate website for Skymax Business Solutions LLP, providing end-to-end enterprise IT infrastructure, printing, gifting, procurement, and training solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
