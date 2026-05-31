@@ -40,7 +40,6 @@ export default function Footer({ onNavigate }: FooterProps) {
           
           {/* Grid Item 1: Brand Info */}
           <div className="col-span-1 md:col-span-12 lg:col-span-4 bg-[#0B2E59] p-8 lg:p-10 space-y-8 relative group overflow-hidden">
-            <div className="absolute top-0 right-0 w-64 h-64 bg-sky-400/5 rounded-bl-[100px] pointer-events-none transition-transform duration-700 group-hover:scale-110" />
             
             <div className="flex items-center cursor-pointer select-none" onClick={() => handleNavClick('home')}>
               <SkymaxLogo className="h-9 md:h-10 w-auto text-white" mode="dark" />
