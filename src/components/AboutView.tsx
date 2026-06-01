@@ -177,7 +177,7 @@ export default function AboutView() {
                 Our Corporate Vision
               </h3>
               <p className="text-xs md:text-sm text-gray-500 font-light leading-relaxed">
-                To serve as the definitive high-availability foundation for corporate workflows across South Asia, empowering enterprises to operate with zero operational friction.
+                To be recognized for exceptional service standards and distinctive offerings that set us apart from the competition, becoming an essential partner in their success journey through long-term commitment and trust.
               </p>
             </div>
 
@@ -190,7 +190,7 @@ export default function AboutView() {
                 Our Corporate Mission
               </h3>
               <p className="text-xs md:text-sm text-gray-500 font-light leading-relaxed">
-                To deliver itemized transparency, manufacturer-certified engineering, and strict SLA enforcement across technology leasing, print fleets, and wellness services.
+                Develop a mindset focused on delivering and experiencing the highest service standards by consistently implementing corrective, actionable steps. Emphasise continuous improvement, proactively address gaps, and strive to exceed customer expectations at every opportunity.
               </p>
             </div>
 
