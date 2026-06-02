@@ -209,7 +209,7 @@ export default function HomeView({ onNavigate }: HomeViewProps) {
   const heroSlides = [
     {
       label: 'SKYMAX B2B SYSTEMS ORCHESTRATION',
-      title: <>Delivering excellence <br />beyond possibilities.</>,
+      title: <>Delivering excellence <br />beyond reach.</>,
       description: 'Unified operations design for modern enterprises. We provision hardware, manage print document flow, and secure multi-branch supply networks under robust corporate SLAs.',
       link: 'solutions',
       solutionId: undefined,
@@ -519,7 +519,8 @@ export default function HomeView({ onNavigate }: HomeViewProps) {
         </div>
       </section>
 
-      {/* SECTION 2: AUTHORIZED OEM STRIP - AGENT LANDSCAPE LOOK */}
+      {/* SECTION 2: AUTHORIZED OEM STRIP - AGENT LANDSCAPE LOOK (Temporarily Disabled) */}
+      {false && (
       <section id="home-trust-indicators" className="bg-[#FFFFFF] bg-grid-pattern py-16 border-b border-neutral-200/50">
         <motion.div 
           {...fReveal}
@@ -562,6 +563,7 @@ export default function HomeView({ onNavigate }: HomeViewProps) {
 
         </motion.div>
       </section>
+      )}
 
       {/* SECTION 3: CORE SOLUTIONS Showcase - THE "ISORA/PHENOMENON" CASE SHOWCASE STYLE */}
       <section id="home-business-solutions" className="bg-[#FFFFFF] bg-grid-pattern py-24 md:py-32">
