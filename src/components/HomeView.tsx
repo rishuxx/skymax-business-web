@@ -209,7 +209,7 @@ export default function HomeView({ onNavigate }: HomeViewProps) {
   const heroSlides = [
     {
       label: 'SKYMAX B2B SYSTEMS ORCHESTRATION',
-      title: <>Delivering excellence <br />beyond reach.</>,
+      title: <>Delivering excellence <br />beyond possibilities.</>,
       description: 'Unified operations design for modern enterprises. We provision hardware, manage print document flow, and secure multi-branch supply networks under robust corporate SLAs.',
       link: 'solutions',
       solutionId: undefined,
